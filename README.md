@@ -1,0 +1,1 @@
+## Openbox my own configuration
