@@ -19,3 +19,5 @@
 sh ~/.config/openbox/fehbg &
 
 sh ~/.xmonad/script/katana.sh &
+
+sh ~/.config/openbox/setdatetime.sh &
