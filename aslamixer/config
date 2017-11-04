@@ -1,0 +1,5 @@
+Change default sound driver: $sudo leafpad /usr/share/alsa/alsa.conf
+								find and replace card 0 or card 1
+
+http://www.archlinuxuser.com/2013/01/how-to-install-sound-drivers-on.html
+http://tutroc77.blogspot.com/2010/06/cai-at-tuy-bien-archlinux-ep-tien-dung.html
