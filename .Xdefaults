@@ -1,0 +1,10 @@
+URxvt.transparent:   yes
+URxvt.shading:       15
+URxvt.font: xft:mono:size=10
+
+urxvt*background:       #000000
+urxvt*foreground:       #FFFFFF
+urxvt*scrollBar:        false
+
+urxvt*textcolor:	#FAFBFC
+
